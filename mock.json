@@ -1,0 +1,70 @@
+{
+    "name_of_recip" : "Einfacher Salat mit Nuggets",
+    "username" : "CerRegulus",
+    "public" : true,
+    "created_at" : null,
+    "updated_at" : null,
+    "recip" : {
+        "amount_of_portion" : 2,
+        "difficulty" : "einfach",
+        "duration" : 30,
+        "ingredients" : {
+            "Salatkopf" : {
+                "amount" : 1,
+                "unit" : "Stk.",
+                "tags" : ["gesund"],
+                "ingred_kind": "Obst und Gemüse"
+            },
+            "Gurke" : {
+                "amount" : 1,
+                "unit" : "Stk.",
+                "tags" : ["gesund"],
+                "ingred_kind": "Obst und Gemüse"
+            },
+            "Tomate" : {
+                "amount" : 2,
+                "unit" : "Stk.",
+                "tags" : ["gesund"],
+                "ingred_kind": "Obst und Gemüse"
+            },
+            "Rote Paprika" : {
+                "amount" : 2,
+                "unit" : "Stk.",
+                "tags" : ["gesund"],
+                "ingred_kind": "Obst und Gemüse"
+            },
+            "Knorr Salatkrönung (Dressing)" : {
+                "amount" : 1,
+                "unit" : "Pack.",
+                "tags" : null,
+                "ingred_kind": "Gewürze und Kräuter"
+            },
+            "Olivenöl" : {
+                "amount" : 2,
+                "unit" : "EL",
+                "tags" : null,
+                "ingred_kind": "Ölprodukte"
+            },
+            "Chicken Nuggets" : {
+                "amount" : 1,
+                "unit" : "Pack.",
+                "tags" : null,
+                "ingred_kind" : "Fleisch und Fisch"
+            }
+        },
+        "tools" : {
+            "lst_of_tool" : ["Salatschüssel", "Pfanne"]
+        },
+        "steps" : {
+            "1" : "Zutaten waschen und alles kleinschneiden.",
+            "2" : "Salat trocken schleudern.",
+            "3" : "Nuggets in einer Pfanne anbraten",
+            "4" : "Alles zusammentun.",
+            "5" : "Knorr Salatkrönung anrühren (Anweisung auf Verpackung folgen).",
+            "6" : "Gut vermengen und anrichten."
+        },
+        "categories" : ["Salat"],
+        "picture" : "salat.jpg",
+        "tags" : ["gesund", "schnell"]
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "gerichte":[
+{
+    "name_of_recip" : "Einfacher Salat mit Nuggets",
+    "username" : "CerRegulus",
+    "public" : true,
+    "created_at" : null,
+    "updated_at" : null,
+    "amount_of_portion" : 2,
+    "difficulty" : "einfach",
+    "duration" : 30,
+    "categories" : ["Salat"],
+    "picture" : "salat.jpg",
+    "tags" : ["gesund", "schnell"]
+    
+},
+{
+    "name_of_recip" : "Nudeln mit hackfleisch",
+    "username" : "roker125",
+    "public" : true,
+    "created_at" : null,
+    "updated_at" : null,
+    "amount_of_portion" : 2,
+    "difficulty" : "normal",
+    "duration" : 15,
+    "categories" : ["Hauptspeise", "Nudelgericht"],
+        "picture" : "nudeln.png",
+        "tags" : ["nudeln", "schnell", "familiengericht"]
+    
+},
+{
+    "name_of_recip" : "Chicken-nuggets",
+    "username" : "CerRegulus",
+    "public" : true,
+    "created_at" : null,
+    "updated_at" : null,
+    "amount_of_portion" : 2,
+    "difficulty" : "einfach",
+    "duration" : 30,
+    "categories" : ["Hähnchen"],
+    "picture" : "nuggets.jpg",
+    "tags" : ["schnell"]
+    
+},
+{
+    "name_of_recip" : "Döner mit alles und scharf",
+    "username" : "roker125",
+    "public" : true,
+    "created_at" : null,
+    "updated_at" : null,
+    "amount_of_portion" : 2,
+    "difficulty" : "einfach",
+    "duration" : 30,
+    "categories" : ["Fastfood"],
+    "picture" : "döner.jpg",
+    "tags" : ["ungesund", "schnell"]
+    
+}
+]}
