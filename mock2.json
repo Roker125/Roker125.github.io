@@ -1,0 +1,78 @@
+{
+    "name_of_recip" : "Nudeln mit Haackscher Soße",
+    "username" : "CerRegulus",
+    "public" : false,
+    "created_at" : null,
+    "updated_at" : null,
+    "recip" : {
+        "amount_of_portion" : 2,
+        "amount_of_person" : 2,
+        "difficulty" : "normal",
+        "duration" : 30,
+        "ingredients" : {
+            "Spaghetti" : {
+                "amount" : 500,
+                "unit" : "g",
+                "tags" : ["Nudel"],
+                "ingred_kind": "Teigwaren"
+            },
+            "Zwiebel" : {
+                "amount" : 1,
+                "unit" : "Stk.",
+                "tags" : null,
+                "ingred_kind": "Obst und Gemüse"
+            },
+            "Fleischwurst" : {
+                "amount" : 200,
+                "unit" : "g",
+                "tags" : null,
+                "ingred_kind": "Fleisch und Fisch"
+            },
+            "Mehl" : {
+                "amount" : 2,
+                "unit" : "EL",
+                "tags" : null,
+                "ingred_kind": "Teigwaren"
+            },
+            "Ketchup" : {
+                "amount" : 1,
+                "unit" : "Pack.",
+                "tags" : null,
+                "ingred_kind": "Saucen"
+            },
+            "Reibekäse" : {
+                "amount" : 1,
+                "unit" : "Pack.",
+                "tags" : null,
+                "ingred_kind": "Molkereiprodukte"
+            },
+            "Tomatenmark" : {
+                "amount" : 1,
+                "unit" : "EL",
+                "tags" : null,
+                "ingred_kind": "Sonstiges"
+            },
+            "Zimt" : {
+                "amount" : 2,
+                "unit" : "Prise.",
+                "tags" : null,
+                "ingred_kind": "Gewürze und Kräuter"
+            }
+
+        },
+        "tools" : ["Topf"],
+        "steps" : {
+            "1" : "Zwiebel schneiden und in einem Topf glasig anbraten.",
+            "2" : "Nudelwasser aufsetzen und wenn es Kocht die Spaghetti hinzugeben und köcheln lassen.",
+            "3" : "Fleischwurst in kleine Würfel schneiden und zusammen mit der Zwiebel anbraten.",
+            "4" : "Wenn alles angebraten ist, Tomatenmark hinzugeben und gut umrühren.",
+            "5" : "Eine Tasse mit kaltem Wasser füllen und das Mehl darin einrühren und anschließend zur Fleischwurst hinzugeben.",
+            "6" : "Ganze Flasche Ketschup hinzugeben, rühren und mit Salz, Pfeffer abschmecken.",
+            "7" : "1-2 Prisen Zimz hinzugeben und auf geringer Stufe köcheln lassen, bis die Spaghetti fertig sind.",
+            "8" : "Zusammen mit Reibekäse servieren."
+        },
+        "categories" : ["Hauptspeise, Nudelgericht"],
+        "picture" : "nudeln.png",
+        "tags" : ["nudeln", "schnell", "familiengericht"]
+    }
+}
