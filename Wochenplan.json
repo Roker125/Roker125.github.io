@@ -1,6 +1,8 @@
 {
-
-    "Montag":{
+    "wochenplan_lst":[
+        
+    {
+        "day":"Montag",
         "name_of_recip" : "Einfacher Salat mit Nuggets",
         "username" : "CerRegulus",
         "public" : true,
@@ -14,7 +16,8 @@
         "tags" : ["gesund", "schnell"]
         
     },
-    "Dienstag":{
+    {
+        "day":"Dienstag",
         "name_of_recip" : "Nudeln mit hackfleisch",
         "username" : "roker125",
         "public" : true,
@@ -29,7 +32,8 @@
         
     },
     
-    "Mittwoch":{
+    {
+        "day":"Mittwoch",
         "name_of_recip" : "Chicken-nuggets",
         "username" : "CerRegulus",
         "public" : true,
@@ -43,7 +47,8 @@
         "tags" : ["schnell"]
         
     },
-    "Donnerstag":{
+    {
+        "day":"Donnerstag",
         "name_of_recip" : "Kartoffelauflauf",
         "username" : "CerRegulus",
         "public" : true,
@@ -57,7 +62,8 @@
         "tags" : []
         
     },
-    "Freitag":{
+    {
+        "day":"Freitag",
         "name_of_recip" : "Nudeln mit roter soße",
         "username" : "CerRegulus",
         "public" : true,
@@ -72,7 +78,8 @@
         
     },
     
-    "Samstag":{
+   {
+    "day":"Samstag",
         "name_of_recip" : "Döner mit alles und scharf",
         "username" : "roker125",
         "public" : true,
@@ -86,7 +93,8 @@
         "tags" : ["ungesund", "schnell"]
         
     },
-    "Sontag":{
+   {
+    "day":"Sontag",
         "name_of_recip" : "Döner mit alles und scharf",
         "username" : "roker125",
         "public" : true,
@@ -100,4 +108,5 @@
         "tags" : ["ungesund", "schnell"]
         
     }
+    ]
     }
