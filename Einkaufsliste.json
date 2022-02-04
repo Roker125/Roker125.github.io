@@ -1,13 +1,13 @@
 {
     "Generelles":[  {"name":"Fleisch","amount":"0,7", "unit":"kg"},
                     {"name":"Ketchup","amount":"2", "unit":"stk."},
-                    {"name":"croissants","amount":"4", "unit":"g"}
+                    {"name":"Croissants","amount":"4", "unit":"g"}
                 ],
     "Gemüse":[  {"name":"Karotte","amount":"10", "unit":"stk."},
                     {"name":"Apfel","amount":"1", "unit":"kg"}
                     
                 ],
-    "Milchprodukte":[  {"name":"Button","amount":"500", "unit":"g"},
+    "Milchprodukte":[  {"name":"Butter","amount":"500", "unit":"g"},
                     {"name":"Milch","amount":"2", "unit":"L"},
                     {"name":"Quark","amount":"4", "unit":"stk."}
                 ] 
