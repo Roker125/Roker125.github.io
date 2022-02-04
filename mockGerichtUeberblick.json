@@ -1,6 +1,7 @@
 {
     "gerichte":[
 {
+	"id":"1",
     "name_of_recip" : "Einfacher Salat mit Nuggets",
     "username" : "CerRegulus",
     "public" : true,
@@ -15,6 +16,7 @@
     
 },
 {
+"id":"2",
     "name_of_recip" : "Nudeln mit hackfleisch",
     "username" : "roker125",
     "public" : true,
@@ -29,6 +31,7 @@
     
 },
 {
+"id":"2",
     "name_of_recip" : "Chicken-nuggets",
     "username" : "CerRegulus",
     "public" : true,
@@ -43,6 +46,7 @@
     
 },
 {
+"id":"2",
     "name_of_recip" : "Döner mit alles und scharf",
     "username" : "roker125",
     "public" : true,
