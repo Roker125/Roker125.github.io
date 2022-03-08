@@ -1,63 +1,54 @@
-{
-    "gerichte":[
-{
-	"id":"1",
-    "name_of_recip" : "Einfacher Salat mit Nuggets",
-    "username" : "CerRegulus",
-    "public" : true,
-    "created_at" : null,
-    "updated_at" : null,
-    "amount_of_portion" : 2,
-    "difficulty" : "einfach",
-    "duration" : 30,
-    "categories" : ["Salat"],
-    "picture" : "salat.jpg",
-    "tags" : ["gesund", "schnell"]
-    
-},
-{
-"id":"2",
-    "name_of_recip" : "Nudeln mit hackfleisch",
-    "username" : "roker125",
-    "public" : true,
-    "created_at" : null,
-    "updated_at" : null,
-    "amount_of_portion" : 2,
-    "difficulty" : "normal",
-    "duration" : 15,
-    "categories" : ["Hauptspeise", "Nudelgericht"],
-        "picture" : "nudeln.png",
-        "tags" : ["nudeln", "schnell", "familiengericht"]
-    
-},
-{
-"id":"2",
-    "name_of_recip" : "Chicken-nuggets",
-    "username" : "CerRegulus",
-    "public" : true,
-    "created_at" : null,
-    "updated_at" : null,
-    "amount_of_portion" : 2,
-    "difficulty" : "einfach",
-    "duration" : 30,
-    "categories" : ["Hähnchen"],
-    "picture" : "nuggets.jpg",
-    "tags" : ["schnell"]
-    
-},
-{
-"id":"2",
-    "name_of_recip" : "Döner mit alles und scharf",
-    "username" : "roker125",
-    "public" : true,
-    "created_at" : null,
-    "updated_at" : null,
-    "amount_of_portion" : 2,
-    "difficulty" : "einfach",
-    "duration" : 30,
-    "categories" : ["Fastfood"],
-    "picture" : "döner.jpg",
-    "tags" : ["ungesund", "schnell"]
-    
-}
-]}
+[
+    {
+    "id" : "<int>recipe_id",
+    "ingredients" : [
+    {
+    "ingredient" : {
+    "name" : "ingredient1",
+    "kind" : "kind1"
+    },
+    "amount" : "<float>amount_of_ingredient",
+    "unit" : "unit1",
+    "tags" : []
+    },
+    {
+    "ingredient" : {
+    "name" : "ingredient2",
+    "kind" : "kind2"
+    },
+    "amount" : "<float>amount_of_ingredient",
+    "unit" : "unit2",
+    "tags" : [
+    "user_ingredient_tag1",
+    "user_ingredient_tag2"
+    ]
+    }
+    ],
+    "tags" : [
+    "user_recipe_tag1",
+    "user_recipe_tag2"
+    ],
+    "name" : "name_of_recipe",
+    "username" : "username",
+    "created_at" : "timestamp",
+    "updated_at" : "timesampt",
+    "public" : "<bool>",
+    "duration" : "<int>duration_of_recipe",
+    "person_amount" : "<int>person_amount",
+    "portion_amount" : "<int>portion_amount",
+    "picture" : "<URL>url/path_recipe_picture",
+    "steps" : {
+        "1" : "Step 1",
+        "2" : "Step 2"
+        },
+        "difficulty" : "difficulty_of_recipe",
+        "category" : [
+        "category1",
+        "category2"
+        ],
+        "tool" : [
+        "tool1",
+        "tool2"
+        ]
+        }
+        ]
