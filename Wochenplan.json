@@ -1,5 +1,5 @@
 {
-    "wochenplan_lst":[
+    "wochenplan_next":[
         
     {
         "id":"1",
@@ -29,8 +29,125 @@
         "difficulty" : "normal",
         "duration" : 15,
         "categories" : ["Hauptspeise", "Nudelgericht"],
-            "picture" : "nudeln.png",
-            "tags" : ["nudeln", "schnell", "familiengericht"]
+        "picture" : "nudeln.png",
+        "tags" : ["nudeln", "schnell", "familiengericht"]
+        
+    },
+    
+    {
+        "id":"3",
+        "day" : "Mittwoch",
+        "name_of_recip" : "Chicken-nuggets",
+        "username" : "CerRegulus",
+        "public" : true,
+        "created_at" : null,
+        "updated_at" : null,
+        "amount_of_portion" : 2,
+        "difficulty" : "einfach",
+        "duration" : 30,
+        "categories" : ["Hähnchen"],
+        "picture" : "nuggets.jpg",
+        "tags" : ["schnell"]
+        
+    },
+    {
+        "id":"4",
+        "day" : "Donnerstag",
+        "name_of_recip" : "Kartoffelauflauf",
+        "username" : "CerRegulus",
+        "public" : true,
+        "created_at" : null,
+        "updated_at" : null,
+        "amount_of_portion" : 2,
+        "difficulty" : "mittel",
+        "duration" : 40,
+        "categories" : ["Hähnchen"],
+        "picture" : "default.png",
+        "tags" : []
+        
+    },
+    {
+        "id":"5",
+        "day" : "Freitag",
+        "name_of_recip" : "Nudeln mit roter soße",
+        "username" : "CerRegulus",
+        "public" : true,
+        "created_at" : null,
+        "updated_at" : null,
+        "amount_of_portion" : 2,
+        "difficulty" : "einfach",
+        "duration" : 30,
+        "categories" : ["vegan","vegetarisch"],
+        "picture" : "default.png",
+        "tags" : ["schnell"]
+        
+    },
+    
+   {
+        "id":"6",
+        "day" : "Samstag",
+        "name_of_recip" : "Döner mit alles und scharf",
+        "username" : "roker125",
+        "public" : true,
+        "created_at" : null,
+        "updated_at" : null,
+        "amount_of_portion" : 2,
+        "difficulty" : "einfach",
+        "duration" : 30,
+        "categories" : ["Fastfood"],
+        "picture" : "döner.jpg",
+        "tags" : ["ungesund", "schnell"]
+        
+    },
+   {
+        "id":"7",
+        "day" : "Sontag",
+        "name_of_recip" : "Döner mit alles und scharf",
+        "username" : "roker125",
+        "public" : true,
+        "created_at" : null,
+        "updated_at" : null,
+        "amount_of_portion" : 2,
+        "difficulty" : "einfach",
+        "duration" : 30,
+        "categories" : ["Fastfood"],
+        "picture" : "döner.jpg",
+        "tags" : ["ungesund", "schnell"]
+        
+    }
+    ],
+"wochenplan_current":[
+        
+    {
+        "id":"1",
+        "day" : "Montag",
+        "name_of_recip" : "Einfacher Salat mit Nuggets",
+        "username" : "CerRegulus",
+        "public" : true,
+        "created_at" : null,
+        "updated_at" : null,
+        "amount_of_portion" : 2,
+        "difficulty" : "einfach",
+        "duration" : 30,
+        "categories" : ["Salat"],
+        "picture" : "salat.jpg",
+        "tags" : ["gesund", "schnell"]
+        
+    },
+    {
+        "id":"2",
+        "day" : "Dienstag",
+        "name_of_recip" : "Nudeln mit hackfleisch",
+        "username" : "roker125",
+        "public" : true,
+        "created_at" : null,
+        "updated_at" : null,
+        "amount_of_portion" : 2,
+        "difficulty" : "normal",
+        "duration" : 15,
+        "categories" : ["Hauptspeise", "Nudelgericht"],
+        "picture" : "nudeln.png",
+        "tags" : ["nudeln", "schnell", "familiengericht"]
         
     },
     
